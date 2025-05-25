@@ -59,5 +59,5 @@ The dataset includes the following types of information:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yuhengzhai/student-performance-prediction.git
-   cd student-performance-prediction
+   git clone https://github.com/yuhengzhai/Student-Performance-Prediction.git
+   cd Student-Performance-Prediction
