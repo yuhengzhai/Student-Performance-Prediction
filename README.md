@@ -41,9 +41,8 @@ The dataset includes the following types of information:
 ## Files
 
 - `Student_Performance_Analysis.ipynb` → Main Kaggle notebook
-- `data/Students_Grading_Dataset.csv` → Masked version
-- `data/Students_Grading_Dataset_Biased.csv` → Biased version
-- `images/` → Charts or confusion matrix screenshots (optional)
+- `Students_Grading_Dataset.csv` → Masked version
+- `Students_Grading_Dataset_Biased.csv` → Biased version
 
 ---
 
